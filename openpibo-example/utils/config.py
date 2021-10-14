@@ -1,0 +1,7 @@
+class Config:
+  OPENPIBO_PATH="/home/pi/openpibo"
+  OPENPIBO_DATA_PATH="/home/pi/openpibo-data"
+  TESTDATA_PATH =OPENPIBO_DATA_PATH+"/testdata"
+  PROC_PATH =OPENPIBO_DATA_PATH+"/proc"
+  MODEL_PATH=OPENPIBO_DATA_PATH+"/models"
+  KAKAO_ACCOUNT="689f768b33cc755e92f496f3f0a245af"
